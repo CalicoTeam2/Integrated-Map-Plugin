@@ -1,4 +1,1 @@
-Integrated-Map-Plugin
-=====================
-
-Version 1
+Problems with splitting the functionality of the two buttons, Might reset
